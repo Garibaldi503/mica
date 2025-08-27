@@ -1,8 +1,6 @@
-streamlit
-pandas
-matplotlib
-seaborn
-xlsxwriter
-plotly.express
-openpyxl
-sklearn
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.25.0
+matplotlib>=3.7.0
+openpyxl>=3.1.0
+XlsxWriter>=3.1.0
